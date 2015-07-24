@@ -1,0 +1,14 @@
+/*
+Theme Name: Whata Primitive Theme (WP Theme)
+Author: Andy Adams
+Version: 1.2
+License: Gargantuan Proprietary License
+*/
+
+* {
+  display: none;
+}
+
+.pay-me-first {
+  display: block;
+}
